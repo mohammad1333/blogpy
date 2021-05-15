@@ -1,2 +1,8 @@
 # linux stuff
 .idea
+
+#database
+db.sqlite3
+
+#migrations
+blog/migrations/
